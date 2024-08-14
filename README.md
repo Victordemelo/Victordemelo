@@ -1,4 +1,4 @@
-<h3 align="center">Olá! Me chamo Victor de Melo 🖐️</h3>
+<h3 align="center">Olá! Eu me chamo Victor de Melo 🖐️</h3>
 
 ###
 
