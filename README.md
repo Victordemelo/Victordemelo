@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">🎓 Sou estudante da 6º fase de Eng. da Computação</h6>
+<h6 align="left">🎓 Sou estudante da 7º fase de Eng. da Computação</h6>
 
 ###
 
