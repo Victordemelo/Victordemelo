@@ -1,36 +1,31 @@
-<h3 align="center">Olá! Me chamo Victor de Melo 🖐️</h3>
+<h3 align="center">Hi! My name is Victor 🖐️</h3>
+
+<h6 align="left">🎓 I am a student in the 8th year of Computer Engineering</h6>
 
 ###
 
-<h6 align="left">🎓 Sou estudante da 7º fase de Eng. da Computação</h6>
+<h6 align="left">👨‍💻 I'm looking to learn programming</h6>
 
-###
+### Social network
 
-<h6 align="left">👨‍💻 Estou buscando aprender programação</h6>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-de-melo-da-rosa/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:victor.rosa.faculdade@gmail.com)[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@skymbee/)
 
-###
+### Programming Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Victordemelo&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Victordemelo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Victordemelo&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+### Work tools
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-###
+### Status
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Victordemelo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" height="200"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Victordemelo&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&custom_title=My%20Favorite%20Languages" height="200"/>
+</p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/victor-de-melo-da-rosa-b3a329239/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="victor.rosa.detran@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://discord.com/channels/Victor.rosa#2533" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/victor.di.melo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Victordemelo&theme=github-dark&radius=16&area=true&order=5" height="300" alt="activity-graph graph" />
+</p>
