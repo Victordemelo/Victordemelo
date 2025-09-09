@@ -1,6 +1,6 @@
 <h3 align="center">Hi! My name is Victor 🖐️</h3>
 
-<h6 align="left">🎓 I am a student in the 8th year of Computer Engineering</h6>
+<h6 align="left">🎓 I am a Computer Engineering student</h6>
 
 ###
 
