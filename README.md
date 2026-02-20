@@ -23,11 +23,16 @@
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Status
-<div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victordemelo&theme=transparent" alt="Estatísticas do GitHub" />
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Victordemelo&theme=transparent" alt="Linguagens mais usadas" />
-</div>
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Victordemelo&theme=transparent" alt="Estatísticas" />
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Victordemelo&theme=transparent" alt="Linguagens" />
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">
