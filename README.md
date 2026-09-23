@@ -17,9 +17,9 @@
 
 Terminei meu portfólio, o primeiro site que fiz do zero e coloquei no ar sozinho. Estão lá os meus projetos (do Wake-on-LAN ao estacionamento com Arduino), a minha trajetória e um gráfico de commits atualizado em tempo real.
 
-Por trás: React 19, Vite e Tailwind, SEO gerado no build, Docker com Caddy atrás do Nginx numa VPS ARM da Oracle, Cloudflare na frente e deploy automático pelo GitHub Actions. O código está aberto em [PortfolioPessoal](https://github.com/Victordemelo/PortfolioPessoal).
+Por trás: React 19, Vite e Tailwind, SEO gerado no build, Docker com Caddy atrás do Nginx numa VPS ARM da Oracle, Cloudflare na frente e deploy automático pelo GitHub Actions.
 
-**Se puder dar uma olhada e me dizer o que achou, agradeço muito:** design, texto, algo quebrado no celular, qualquer coisa. É só me chamar no [LinkedIn](https://www.linkedin.com/in/victor-de-melo-da-rosa/) ou abrir uma issue no repositório.
+**Se puder dar uma olhada e me dizer o que achou, agradeço muito:** design, texto, algo quebrado no celular, qualquer coisa. É só me chamar no [LinkedIn](https://www.linkedin.com/in/victor-de-melo-da-rosa/).
 
 ---
 
