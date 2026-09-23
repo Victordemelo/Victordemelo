@@ -4,11 +4,22 @@
 
 **Computer Engineering Student** · Building things with code
 
+[![Site](https://img.shields.io/badge/victordemelo.com.br-%23F5B83D.svg?style=flat-square&logo=googlechrome&logoColor=black)](https://victordemelo.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-de-melo-da-rosa/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:victor.rosa.faculdade@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:victor.rosa.system@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.com/channels/@skymbee/)
 
 </div>
+
+---
+
+### 🌐 Meu primeiro site: [victordemelo.com.br](https://victordemelo.com.br)
+
+Terminei meu portfólio, o primeiro site que fiz do zero e coloquei no ar sozinho. Estão lá os meus projetos (do Wake-on-LAN ao estacionamento com Arduino), a minha trajetória e um gráfico de commits atualizado em tempo real.
+
+Por trás: React 19, Vite e Tailwind, SEO gerado no build, Docker com Caddy atrás do Nginx numa VPS ARM da Oracle, Cloudflare na frente e deploy automático pelo GitHub Actions. O código está aberto em [PortfolioPessoal](https://github.com/Victordemelo/PortfolioPessoal).
+
+**Se puder dar uma olhada e me dizer o que achou, agradeço muito:** design, texto, algo quebrado no celular, qualquer coisa. É só me chamar no [LinkedIn](https://www.linkedin.com/in/victor-de-melo-da-rosa/) ou abrir uma issue no repositório.
 
 ---
 
